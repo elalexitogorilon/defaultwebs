@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+change the content in master in another file
+=======
+// change for developer 2
+>>>>>>>  commit feature 2
